@@ -7,5 +7,5 @@ Packages Used in Creating the Apis are:
 3- Nodemon
 4- Crypto Js
 
-Databes used for app:
+Database used for app:
 Mongoose db
