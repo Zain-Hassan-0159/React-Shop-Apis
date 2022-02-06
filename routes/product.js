@@ -48,7 +48,7 @@ router.get("/find/:id", async (req, res)=>{
     }
 });
 
-// Get Product
+// Get Products
 router.get("/", async (req, res)=>{
     const qnew = req.query.new;
     const qcategory = req.query.category;
